@@ -378,6 +378,11 @@ footer small {
         grid-template-columns: 1fr;
     }
 
+    .who-image img {
+        height: auto;
+    }
+
+
     .domain-box {
         width: 100%;
     }
